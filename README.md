@@ -29,10 +29,6 @@ Compile e execute a aplicação para ver a API em ação. Utilize ferramentas co
 
 Contribuições são bem-vindas! Se você identificar melhorias, correções de bugs ou novas funcionalidades que possam ser implementadas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
-
 ---
 
 Espero que esta atividade lhe proporcione uma experiência prática valiosa no desenvolvimento de APIs com Delphi usando o framework HORSE. Divirta-se codificando! 🚀
