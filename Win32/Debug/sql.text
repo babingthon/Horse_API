@@ -1,0 +1,6 @@
+SELECT * FROM USUARIO
+WHERE IDUSUARIO = 'babingthon'
+AND PWS = '1234'
+
+
+
